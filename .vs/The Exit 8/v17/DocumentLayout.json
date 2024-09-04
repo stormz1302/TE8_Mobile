@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\\Project Unity\\The Exit 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|F:\\Unity\\Project Unity\\The Exit 8\\assets\\anomaliesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|solutionrelative:assets\\anomaliesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|F:\\Unity\\Project Unity\\The Exit 8\\assets\\dynamic first person mobile\\scripts\\mobilebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|solutionrelative:assets\\dynamic first person mobile\\scripts\\mobilebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|F:\\Unity\\Project Unity\\The Exit 8\\assets\\navagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|solutionrelative:assets\\navagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|F:\\Unity\\Project Unity\\The Exit 8\\assets\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|F:\\Unity\\Project Unity\\The Exit 8\\assets\\reloadscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|solutionrelative:assets\\reloadscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|F:\\Unity\\Project Unity\\The Exit 8\\assets\\scripts\\textupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|F:\\Unity\\Project Unity\\The Exit 8\\assets\\ano7ontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|solutionrelative:assets\\ano7ontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|f:\\unity\\project unity\\the exit 8\\assets\\rdanomalies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|solutionrelative:assets\\rdanomalies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|f:\\unity\\project unity\\the exit 8\\assets\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|solutionrelative:assets\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|F:\\Unity\\Project Unity\\The Exit 8\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|F:\\Unity\\Project Unity\\The Exit 8\\assets\\dynamic first person mobile\\scripts\\joystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|solutionrelative:assets\\dynamic first person mobile\\scripts\\joystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|F:\\Unity\\Project Unity\\The Exit 8\\assets\\dynamic first person mobile\\scripts\\cameralook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A918A1-E735-028D-DEE8-D8221AB59C7C}|Assembly-CSharp.csproj|solutionrelative:assets\\dynamic first person mobile\\scripts\\cameralook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EndPoint.cs",
+              "DocumentMoniker": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\EndPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\EndPoint.cs",
+              "ToolTip": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\EndPoint.cs",
+              "RelativeToolTip": "Assets\\EndPoint.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:41:37.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnomaliesManager.cs",
+              "DocumentMoniker": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\AnomaliesManager.cs",
+              "RelativeDocumentMoniker": "Assets\\AnomaliesManager.cs",
+              "ToolTip": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\AnomaliesManager.cs",
+              "RelativeToolTip": "Assets\\AnomaliesManager.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAwGsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:31:44.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RdAnomalies.cs",
+              "DocumentMoniker": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\RdAnomalies.cs",
+              "RelativeDocumentMoniker": "Assets\\RdAnomalies.cs",
+              "ToolTip": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\RdAnomalies.cs",
+              "RelativeToolTip": "Assets\\RdAnomalies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:15:05.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ano7Ontrigger.cs",
+              "DocumentMoniker": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\Ano7Ontrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Ano7Ontrigger.cs",
+              "ToolTip": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\Ano7Ontrigger.cs",
+              "RelativeToolTip": "Assets\\Ano7Ontrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:16:00.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextUpdater.cs",
+              "DocumentMoniker": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\Scripts\\TextUpdater.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextUpdater.cs",
+              "ToolTip": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\Scripts\\TextUpdater.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextUpdater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:42:22.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReloadSceneManager.cs",
+              "DocumentMoniker": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\ReloadSceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ReloadSceneManager.cs",
+              "ToolTip": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\ReloadSceneManager.cs",
+              "RelativeToolTip": "Assets\\ReloadSceneManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:50:22.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneTransition.cs",
+              "DocumentMoniker": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\SceneTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneTransition.cs",
+              "ToolTip": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\SceneTransition.cs",
+              "RelativeToolTip": "Assets\\SceneTransition.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:25:23.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavAgentController.cs",
+              "DocumentMoniker": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\NavAgentController.cs",
+              "RelativeDocumentMoniker": "Assets\\NavAgentController.cs",
+              "ToolTip": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\NavAgentController.cs",
+              "RelativeToolTip": "Assets\\NavAgentController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:32:07.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MobileButton.cs",
+              "DocumentMoniker": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\Dynamic First Person Mobile\\Scripts\\MobileButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Dynamic First Person Mobile\\Scripts\\MobileButton.cs",
+              "ToolTip": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\Dynamic First Person Mobile\\Scripts\\MobileButton.cs",
+              "RelativeToolTip": "Assets\\Dynamic First Person Mobile\\Scripts\\MobileButton.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:06:28.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckPoint.cs",
+              "DocumentMoniker": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\Scripts\\CheckPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckPoint.cs",
+              "ToolTip": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\Scripts\\CheckPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:32:53.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CameraLook.cs",
+              "DocumentMoniker": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\Dynamic First Person Mobile\\Scripts\\CameraLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Dynamic First Person Mobile\\Scripts\\CameraLook.cs",
+              "ToolTip": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\Dynamic First Person Mobile\\Scripts\\CameraLook.cs",
+              "RelativeToolTip": "Assets\\Dynamic First Person Mobile\\Scripts\\CameraLook.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:11:37.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Joystick.cs",
+              "DocumentMoniker": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\Dynamic First Person Mobile\\Scripts\\Joystick.cs",
+              "RelativeDocumentMoniker": "Assets\\Dynamic First Person Mobile\\Scripts\\Joystick.cs",
+              "ToolTip": "F:\\Unity\\Project Unity\\The Exit 8\\Assets\\Dynamic First Person Mobile\\Scripts\\Joystick.cs",
+              "RelativeToolTip": "Assets\\Dynamic First Person Mobile\\Scripts\\Joystick.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:52:33.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
